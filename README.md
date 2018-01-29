@@ -21,6 +21,12 @@ Manual installation of plugin `assets/plugins/ckeditor4/plugin.ckeditor4.php`:
   - Paste content of file `assets/plugins/ckeditor4/plugin.ckeditor4.php` into EVO Plugin-Code
   - Set system-events `OnLoadWebDocument,OnParseDocument,OnWebPagePrerender,OnLoadWebPageCache,OnRichTextEditorRegister,OnRichTextEditorInit,OnInterfaceSettingsRender`
   - Save new plugin
+
+------------------------------------------------------------------------------
+
+Source of latest *class.modxRTEbridge.php* for manual update:
+
+https://github.com/evolution-cms/evolution/blob/develop/assets/lib/class.modxRTEbridge.php
   
 ------------------------------------------------------------------------------
     
